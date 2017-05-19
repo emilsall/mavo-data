@@ -1,0 +1,14 @@
+{
+	"name": "Titel",
+	"gallery": [
+		{
+			"case": [
+				{
+					"image": "//placehold.it/300",
+					"description": "Test"
+				}
+			]
+		}
+	],
+	"layout": "grid"
+}
