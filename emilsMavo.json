@@ -6,9 +6,13 @@
 				{
 					"image": "https://cdn.rawgit.com/emilsall/mavo-data/9537f387903c35ce43b1808afb49c6ef0c8139e5/images/preem2.png",
 					"description": "Test"
+				},
+				{
+					"image": "//placehold.it/300",
+					"description": "Ica"
 				}
 			]
 		}
 	],
-	"layout": "grid"
+	"layout": "full"
 }
