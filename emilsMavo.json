@@ -16,7 +16,14 @@
 					"linktext": "Test"
 				}
 			]
+		},
+		{
+			"case": [
+				{
+					"image": "//placehold.it/300"
+				}
+			]
 		}
 	],
-	"layout": "full"
+	"layout": "grid"
 }
