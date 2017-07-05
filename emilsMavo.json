@@ -20,7 +20,8 @@
 		{
 			"case": [
 				{
-					"image": "//placehold.it/300"
+					"image": "//placehold.it/500",
+					"description": "Test"
 				}
 			]
 		}
