@@ -6,24 +6,8 @@
 				{
 					"image": "https://cdn.rawgit.com/emilsall/mavo-data/9537f387903c35ce43b1808afb49c6ef0c8139e5/images/preem2.png",
 					"description": "Test",
-					"link": "sdfsdf",
-					"linktext": "sdfsfsdf"
-				},
-				{
-					"image": "https://cdn.rawgit.com/emilsall/mavo-data/4b3fe11959df40315e0f93613a96c072ba3a5434/images/2017-06-26-001.jpg",
-					"description": "Ica",
-					"link": "dn.se",
-					"linktext": "Test"
-				}
-			]
-		},
-		{
-			"case": [
-				{
-					"image": "//placehold.it/500",
-					"description": "Beskriv",
-					"link": "http://sallmedia.se",
-					"linktext": "Linktext"
+					"link": "http://sall.media",
+					"linktext": "Text"
 				}
 			]
 		}
