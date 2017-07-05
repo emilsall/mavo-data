@@ -21,7 +21,9 @@
 			"case": [
 				{
 					"image": "//placehold.it/500",
-					"description": "Beskriv"
+					"description": "Beskriv",
+					"link": "http://sallmedia.se",
+					"linktext": "Linktext"
 				}
 			]
 		}
