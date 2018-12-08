@@ -4,7 +4,7 @@
 		{
 			"case": [
 				{
-					"image": "https://cdn.rawgit.com/emilsall/mavo-data/c5d78838cb91405f6d17500cefa750b385818f51/images/2017-06-26-002.jpg",
+					"image": "https://cdn.jsdelivr.net/gh/emilsall/mavo-data@c5d78838cb91405f6d17500cefa750b385818f51/images/2017-06-26-002.jpg",
 					"description": "Hello hello",
 					"link": "http://sall.media",
 					"linktext": "Test"
